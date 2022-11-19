@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @AI723-elijah
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AI723-elijah/AI723-elijah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Artificial Intelligence, Software Engineering and Devops Engineering.
+- 🌱 I’m currently learning DevOps Engineering in large scale.
+- 💞️ I’m looking to collaborate on innovative and self-motivative software engineers.
+- 📫 How to reach me?
+      e-Mail:       ElijahEric723@gmail.com
+      skype-id:     live:.cid.f20faf5ec0b9dda3
+      phone-number: +1 812 618 2967 (whatsapp same)
+      telegram:     @ElijahAI
